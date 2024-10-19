@@ -1,4 +1,6 @@
+![Header](background.jpeg)
 ## Hi there
+
 
 My name is Sandip Chitale. I am a full stack developer (Java/Spring, Angular/Typescript) with a developer productivity mindset. Being an artists I am also interested in UI and my interest in productivity translates to UXD as well.
 

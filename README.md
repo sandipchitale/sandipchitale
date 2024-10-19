@@ -10,7 +10,7 @@ I have in the past worked on:
 - Eclipse
 - Aptana Studio
 
-I also develop a lot of IntelliJ plugins and VSCode extension. I also know how to develop Chrome extension.
+I also develop a lot of [IntelliJ plugins](https://plugins.jetbrains.com/vendor/50612aa4-f7b0-4e48-b265-cee3952604e7) and [VSCode extension](https://marketplace.visualstudio.com/publishers/sandipchitale). I also know how to develop Chrome extension.
 
 ## How to reach me?
 

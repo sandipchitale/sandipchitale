@@ -14,6 +14,6 @@ I also develop a lot of [IntelliJ plugins](https://plugins.jetbrains.com/vendor/
 
 ## How to reach me?
 
-[Linked in](https://www.linkedin.com/in/sandipchitale/)
-[X](https://x.com/sandipchitale)
+- [Linked in](https://www.linkedin.com/in/sandipchitale/)
+- [X](https://x.com/sandipchitale)
 

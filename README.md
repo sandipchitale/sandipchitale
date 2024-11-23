@@ -18,6 +18,6 @@ I have also developed several cross platform desktop apps using Electron frame w
 
 ## How to reach me?
 
-- [Linked in](https://www.linkedin.com/in/sandipchitale/)
+- [LinkedIn](https://www.linkedin.com/in/sandipchitale/)
 - [X](https://x.com/sandipchitale)
 
